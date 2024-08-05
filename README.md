@@ -1,2 +1,3 @@
 # jutard-dot-com.github.io
-Root of jutard.com
+
+Source for https://www.jutard.com
